@@ -1,0 +1,15 @@
+{
+  "name": "project_47",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project47_Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Capps",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "mysql": "^2.18.1"
+  }
+}
